@@ -2,7 +2,7 @@
 title: SAC-SVT 2027
 description: Symposium on Applied Computing, Software Verification and Testing Track, 2027
 ---
-Navigation: [Call For Papers](#call-for-papers), [Submission Guidelines](#submission-guidelines), [Important Dates](#important-dates), [Track Chairs](#track-chairs), [Program Committee](#program-committee), [Previous Editions](#previous-editions)
+**Navigation:** [Call For Papers](#call-for-papers), [Submission Guidelines](#submission-guidelines), [Important Dates](#important-dates), [Track Chairs](#track-chairs), [Program Committee](#program-committee), [Previous Editions](#previous-editions)
 
 ## Call For Papers
 
