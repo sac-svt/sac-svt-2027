@@ -72,7 +72,26 @@ Author registration: 11th December 2026<br>
 
 ## Program Committee
 
-TBD
+Mercedes Merayo, Universidad Complutense de Madrid<br>
+Gwen Salaün, University of Grenoble Alpes<br>
+Jun Pang, University of Luxembourg<br>
+Peter Ölveczky, University of Oslo<br>
+Maurizio Leotta, Università di Genova<br>
+Ernst Moritz Hahn, University of Twente<br>
+Matthias Güdemann, UAS Munich<br>
+Tom van Dijk, University of Twente<br>
+Vincenzo Ciancia, Istituto di Scienza e Tecnologie dell'Informazione "A. Faedo", Consiglio Nazionale delle Ricerche, Pisa, Italy<br>
+Raúl Pardo, IT University of Copenhagen<br>
+Angelo Gargantini, University of Bergamo<br>
+David Šafránek, Masaryk University<br>
+Michele Chiari, AIT Austrian Institute of Technology<br>
+Joao Faria, INESC TEC<br>
+María del Mar Gallardo, University of Málaga<br>
+Marcus Gerhold, University of Twente<br>
+Antoine Rollet, LaBRI, Bordeaux INP, University of Bordeaux, CNRS<br>
+Sylvain Hallé, Université du Québec à Chicoutimi<br>
+Nikolai Kosmatov, Thales Research & Technology<br>
+Violet Ka I Pun, Western Norway University of Applied Sciences, Norway<br>
 
 ## Previous Editions
 
