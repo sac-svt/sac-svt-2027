@@ -59,11 +59,12 @@ The submission system for regular papers: [https://easychair.org/conferences/?co
 The submission system for SRC (Student Research Competition) abstracts: [https://easychair.org/conferences/?conf=sacsrc2027](https://easychair.org/conferences/?conf=sacsrc2027)
 
 ## Important Dates
-Paper and SRC abstract submission: 2 October 2026<br>
-<!-- <s>2 October 2026</s> <b>17 October 2026 (final extension)</b> <br> -->
-Notification:  13 November 2026<br>
-Camera-ready: 4 December 2026<br>
-Author registration: 11th December 2026<br>
+Paper and SRC abstract submission: <s>2 October 2026</s> <b>16 October 2026 (final extension)</b> <br>
+Notification: <s>13 November 2026</s> <b>20 November 2026</b> <br> 
+<!-- 13 November 2026<br> -->
+Camera-ready: <s>4 December 2026</s> <b>11 December 2026</b> <br>
+<!-- 4 December 2026<br> -->
+Author registration: 5 December 2026<br>
 
 ## Track Chairs
 
